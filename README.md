@@ -1,2 +1,2 @@
 # README.md
-This is a demo
+This is a demo for training
